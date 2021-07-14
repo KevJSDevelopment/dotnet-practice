@@ -1,0 +1,12 @@
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Domain/bin/Debug/net5.0/Domain.dll
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb

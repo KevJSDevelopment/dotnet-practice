@@ -1,0 +1,17 @@
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/bin/Debug/net5.0/Application.deps.json
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/bin/Debug/net5.0/Application.dll
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/bin/Debug/net5.0/ref/Application.dll
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/bin/Debug/net5.0/Application.pdb
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/bin/Debug/net5.0/Domain.dll
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/bin/Debug/net5.0/Persistance.dll
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/bin/Debug/net5.0/Persistance.pdb
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/bin/Debug/net5.0/Domain.pdb
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/obj/Debug/net5.0/Application.csproj.AssemblyReference.cache
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/obj/Debug/net5.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/obj/Debug/net5.0/Application.dll
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/obj/Debug/net5.0/ref/Application.dll
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/obj/Debug/net5.0/Application.pdb
