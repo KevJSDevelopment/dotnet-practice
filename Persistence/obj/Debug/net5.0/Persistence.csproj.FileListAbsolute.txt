@@ -1,0 +1,15 @@
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.AssemblyReference.cache
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Persistence/obj/Debug/net5.0/Persistence.pdb
