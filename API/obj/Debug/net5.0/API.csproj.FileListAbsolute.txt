@@ -60,3 +60,5 @@
 /Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/API/bin/Debug/net5.0/Persistence.pdb
 /Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/API/bin/Debug/net5.0/Humanizer.dll
 /Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/API/bin/Debug/net5.0/MediatR.dll
+/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/API/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll

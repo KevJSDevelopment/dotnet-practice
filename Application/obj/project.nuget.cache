@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "XVy7QfCLfHhgYiH/v2278rFDk9nvTS/ZP/1cG7PRadgNgX/e53AtLzHDdPrN5cGNdhv2lT7uojDI2YlXFTYKQw==",
+  "dgSpecHash": "yuLiqxwqhG2llsDcqV0QUgN3RM4YXiimpTC6fw3pT5+gglAuG2+fL/PcwbZBsZv35eISadIxBrMHYQDpMBHLnA==",
   "success": true,
   "projectFilePath": "/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/kevinsheehan/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/kevinsheehan/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/Users/kevinsheehan/.nuget/packages/microsoft.data.sqlite.core/5.0.3/microsoft.data.sqlite.core.5.0.3.nupkg.sha512",
     "/Users/kevinsheehan/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "/Users/kevinsheehan/.nuget/packages/microsoft.entityframeworkcore/5.0.3/microsoft.entityframeworkcore.5.0.3.nupkg.sha512",
