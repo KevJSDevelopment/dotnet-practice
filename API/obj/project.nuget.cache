@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "sZjTLpeyn88Xf9LuIbqkEvOLkFU/M7SV6shETxot0VXcIJgj25Fv+Sfsz9Y+rDK5QxVzSZSRxfIzvgNoyRH2+A==",
+  "dgSpecHash": "fh03SHE2QnO0h+NqCd3u5alPb0+t2OEkSw9/tFmF4LxPLfVn/4SbTuRtXfY2ZHhVpehcUaVW3Z5efe1HLBbw6Q==",
   "success": true,
   "projectFilePath": "/Users/kevinsheehan/Documents/Projects/dotnet-practice/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/kevinsheehan/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/kevinsheehan/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/Users/kevinsheehan/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/kevinsheehan/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
     "/Users/kevinsheehan/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
@@ -40,7 +42,8 @@
     "/Users/kevinsheehan/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
     "/Users/kevinsheehan/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/kevinsheehan/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "/Users/kevinsheehan/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+    "/Users/kevinsheehan/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/kevinsheehan/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
