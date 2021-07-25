@@ -1,12 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import logo from './logo.svg';
-import './App.css';
 import axios from 'axios';
 import { Header, List } from 'semantic-ui-react';
+import { Activity } from '../models/activity';
 
 function App() {
 
-  const [activities, setActivities] = useState([]);
+  const [activities, setActivities] = useState<Activity[]>([]);
 
   useEffect(() => {
     axios.get('http://localhost:5000/api/activities').then((res: any) => {
@@ -18,9 +17,10 @@ function App() {
     <div className="App">
       <Header as="h2" icon='users' content='Reactivities' />
         <List>
-          {activities.map( (activity: any) => {
-            return <List.Item key={activity.id}> {activity.title} </List.Item>
-          })}
+          {activities.map( (activity: any) => 
+            <List.Item key={activity.id}> 
+              {activity.title} 
+            </List.Item>)}
         </List>
     </div>
   );
