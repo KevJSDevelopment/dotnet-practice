@@ -3,7 +3,7 @@ import axios from 'axios';
 import { Header, List } from 'semantic-ui-react';
 import { Activity } from '../models/activity';
 
-function App() {
+const App = () => {
 
   const [activities, setActivities] = useState<Activity[]>([]);
 
@@ -13,6 +13,7 @@ function App() {
       setActivities(res.data);
     })
   }, [])
+
   return (
     <div className="App">
       <Header as="h2" icon='users' content='Reactivities' />
